@@ -1,4 +1,4 @@
 
 set(CN_PROJECT_NAME "bitecoin")
 set(CN_CURRENCY_DISPLAY_NAME "bitecoin")
-set(CN_CURRENCY_TICKER "XFC")
+set(CN_CURRENCY_TICKER "BTC")
